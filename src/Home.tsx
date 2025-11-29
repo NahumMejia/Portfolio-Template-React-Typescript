@@ -35,18 +35,18 @@ function App() {
           <div className="absolute -inset-3 border-4 border-blue-900 rounded-full" />
           <img
             className="relative shadow-xl rounded-full w-full h-full object-cover"
-            src="/YourPhoto/your-photo2.jpg"
+            src="/YourPhoto/Dexter.jpg"
             alt="Nahum Mejía"
           />
         </div>
         <div className="w-full md:w-[30rem] text-white md:text-left text-center">
           <h1 className="mb-2 font-mono text-xl">Hi 👋, I am</h1>
           <h1 className="mb-4 font-passion font-bold text-4xl sm:text-5xl leading-tight">
-            Nahum Mejia Doniz
+            Dexter Morgan
           </h1>
 
           <span className="block mt-2 px-1 max-w-full font-mono text-blue-100 text-xl sm:text-xl sm:whitespace-nowrap">
-            Software Engineer Student - Web Developer
+            Forensic Technician - Blood Spatter Analyst
           </span>
 
           <Separator className="mt-5" />
